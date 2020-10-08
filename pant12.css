@@ -1,0 +1,148 @@
+body{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    margin: 0px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 7rem;
+  
+}
+#menuIcon{
+    position: relative;
+    right: 100px;
+}
+#menuIcon{
+    position: relative;
+    right: 80px;
+}
+.foto{
+    position: relative;
+    left: 100px;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 30px;
+    margin-right: 2rem;
+}
+.primerContent{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    background-image: url(a.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+    height: 50%;
+
+}
+.camp{
+
+    border-radius: 0px;
+    background-image: url(fondo1.jpg);
+    filter: drop-shadow(8px 8px 10px gray);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem 5rem;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+#camping{
+    margin:0px;
+    position: relative;
+    top: 30px;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.377);
+   
+}
+.cam{
+
+    border-radius: 0px;
+    background-image: url(iamgen3.jpg);
+    filter: drop-shadow(8px 8px 10px gray);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem 5rem;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+#campin{
+    margin:0px;
+    position: relative;
+    top: 30px;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.377);
+   
+}
+.c{
+
+    border-radius: 0px;
+    background-image: url(imagen1.jpg);
+    filter: drop-shadow(8px 8px 10px gray);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem 5rem;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+#ca{
+    margin:0px;
+    position: relative;
+    top: 30px;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.377);
+   
+}
+.header{
+width: 100%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-top: 1rem;
+}
+p{
+    color:white;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 1rem;
+    letter-spacing: 2px;
+    margin: 0px;
+}
+h1{
+    font-size: 2.5rem;
+    line-height: 0.9;
+    margin-top: 20px;
+    margin-bottom: 0px;;
+    color: rgb(228, 228, 96);
+}
+h2{
+    font-size: 2.5rem;
+    color: rgb(228, 228, 96);
+    margin:0px;
+}
+.search--input{
+    position: relative;
+    width: 90%;
+    margin-left: 20px;
+}
+.search--input input{
+    position: relative;
+    border-radius: 15px;
+    padding: 0.7rem 4rem;
+    font-size: 1rem;
+
+}
+header{
+    padding: 0px 0px 0px 20px;
+    text-align: left;   
+    margin-top: 10px;
+}
+
